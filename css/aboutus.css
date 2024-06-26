@@ -1,0 +1,159 @@
+.big_border{
+    border: solid 1px black;
+    width: 1000px;
+    margin: auto;
+}
+
+.header{
+    width: 1000px;
+    height: 150px;
+    background-color: rgba(81, 81, 240, 0.747);
+    border: solid 1px rgb(0, 0, 0);
+    margin: auto;
+}
+
+.logo{
+    margin-top: 45px;
+    margin-left: 40px;
+    float: left;
+}
+
+.menu{
+    list-style: none;
+    float: left;
+    margin-top: 45px;
+}
+
+.menu_button{
+    display: inline-block;
+    float: left;
+    border: solid 1px black;
+    margin-left: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+}
+
+.a:hover{
+    color: rgb(38, 0, 255);
+}
+
+/* about us */
+
+.big_box{
+    width: 1000px;
+    height: 1150px;
+    margin: auto;                    
+}
+
+.h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    text-align: center;
+}
+
+.s{
+    color: rgb(63, 61, 61);
+}
+
+.image_box{
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* website footer */
+
+.footer_outer{
+    width: 1000px;
+    height: 250px;
+    background-color: rgba(81, 81, 240, 0.747);
+    margin: auto;
+}
+
+.footer1{
+    width: 331px;
+    height: 250px;
+    float: left;
+}
+
+.footer2{
+    width: 330px;
+    height: 250px;
+    float: left;
+}
+
+.footer3{
+    width: 333px;
+    height: 250px;
+    float: left;
+}
+
+.footer_button{
+    list-style: none;
+    margin-left: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    color: rgba(255, 0, 0, 0.568);
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.h2{
+    margin-left: 20px;
+}
+
+.about_footer{
+    margin-left: 20px;
+}
+
+.logo_footer{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.add_link{
+    margin-top: 30px;
+    margin-left: 45px;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 23px;
+    color: black;
+}
+.add_link_button{
+    margin-top: 20px;
+    margin-left: 70px;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 19px;
+    color: black;
+}

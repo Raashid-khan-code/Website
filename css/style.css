@@ -1,0 +1,232 @@
+.big_border{
+    border: solid 1px black;
+    width: 1000px;
+    margin: auto;
+}
+
+.header{
+    width: 1000px;
+    height: 150px;
+    background-color: rgba(81, 81, 240, 0.747);
+    border: solid 1px rgb(0, 0, 0);
+    margin: auto;
+}
+
+.logo{
+    margin-top: 45px;
+    margin-left: 40px;
+    float: left;
+}
+
+.menu{
+    list-style: none;
+    float: left;
+    margin-top: 45px;
+}
+
+.menu_button{
+    display: inline-block;
+    float: left;
+    border: solid 1px black;
+    margin-left: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.a{
+    text-decoration: none;
+}
+
+.a:hover{
+    color: rgb(38, 0, 255);
+}
+
+.outer_box{
+    width: 1000px;
+    height: 400px;
+    background-color: rgba(72, 138, 236, 0.671);
+    margin: auto;
+}
+
+.left_box{
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+
+.right_box{
+    width: 596px;
+    height: 500px;
+    float: left;
+}
+
+.h1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 32px;
+    margin-left: 30px;
+}
+
+.s{
+    color: rgb(63, 61, 61);
+}
+
+.p{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.li{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.button{
+    background-color: rgb(193, 240, 224);
+    margin-left: 30px;
+    color: red;
+    padding: 10px 20px;
+}
+
+.a1{
+    text-decoration: none;
+    color: rgb(255, 7, 7);
+}
+
+/* product card section */
+
+.banner{
+    width: 980px;
+    height: 200px;
+    background-color: rgba(72, 138, 236, 0.671);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.918);
+    margin: auto;
+    padding: 10px;
+}
+
+.product_box{
+    width: 1000px;
+    height: 570px;
+    background-color: rgba(72, 138, 236, 0.671);
+    margin: auto;
+}
+
+.product_card{
+    width: 180px;
+    height: 480px;
+    background-color: rgba(182, 224, 210, 0.623);
+    border: solid black 1px;
+    box-shadow: rgba(0, 0, 0, 0.658) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 20px;
+    text-align: center;
+    float: left;
+    margin: 13px;
+    padding: 20px;
+}   
+
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.button1{
+    background-color: rgb(236, 88, 113);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+}
+
+/* website footer */
+
+.footer_outer{
+    width: 1000px;
+    height: 250px;
+    background-color: rgba(81, 81, 240, 0.747);
+    margin: auto;
+}
+
+.footer1{
+    width: 331px;
+    height: 250px;
+    float: left;
+}
+
+.footer2{
+    width: 330px;
+    height: 250px;
+    float: left;
+}
+
+.footer3{
+    width: 333px;
+    height: 250px;
+    float: left;
+}
+
+.footer_button{
+    list-style: none;
+    margin-left: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    color: rgba(255, 0, 0, 0.568);
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+
+.a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.h2{
+    margin-left: 20px;
+}
+
+.about_footer{
+    margin-left: 20px;
+}
+
+.logo_footer{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.add_link{
+    margin-top: 30px;
+    margin-left: 45px;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 23px;
+    color: black;
+}
+.add_link_button{
+    margin-top: 20px;
+    margin-left: 70px;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 19px;
+    color: black;
+}
+
+
